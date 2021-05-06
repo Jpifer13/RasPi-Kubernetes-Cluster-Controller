@@ -5,7 +5,7 @@ colorama==0.4.3
 connexion==2.7.0
 cryptography==2.9.2
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Jinja2==2.11.1
 loguru==0.4.1
 MarkupSafe==1.1.1
